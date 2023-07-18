@@ -1,4 +1,4 @@
-## Bank Management System - DAMG6210 Final Project
+## Bank Management System
 
 ### Overview
 
